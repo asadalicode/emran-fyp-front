@@ -1,6 +1,7 @@
 # Installation
 
 To get started follow this steps:
+<!--  -->
 
 1. Install [Node](https://nodejs.org/en/), [npm](https://www.npmjs.com/get-npm) or [yarn](https://yarnpkg.com/getting-started/install).
 2. Download and open project.
