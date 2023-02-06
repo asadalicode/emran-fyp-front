@@ -37,6 +37,7 @@ const Register = ({ history }) => {
           <RegisterForm errorMessage={error} />
           <div className="account__have-account">
             <p>
+              {/*  */}
               Already have an account? <NavLink to="/log_in">Login</NavLink>
             </p>
           </div>
