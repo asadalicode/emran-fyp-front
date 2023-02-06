@@ -12,6 +12,7 @@ const CarouselSingle = ({ children, rtl }) => {
     slidesToShow: 1,
     slidesToScroll: 1,
     rtl: rtl.direction === 'rtl',
+    // 
   };
 
   return (
